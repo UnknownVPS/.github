@@ -30,7 +30,7 @@ Each repository contains its own detailed README and documentation files to help
 
 ## 📬 Get in Touch
 
-For questions, suggestions, or collaboration opportunities, feel free to reach out to us at [info@unknownvps.com](mailto:admin@unknownvps.com). We’re always excited to connect with fellow developers and enthusiasts!
+For questions, suggestions, or collaboration opportunities, feel free to reach out to us at [admin@unknownvps.com](mailto:admin@unknownvps.com). We’re always excited to connect with fellow developers and enthusiasts!
 
 ---
 
